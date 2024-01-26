@@ -1,9 +1,9 @@
 {
+  "homepage": "https://CaelumExodus.github.io/drawings-numbers-react",
   "name": "drawings-numbers-react",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://CaelumExodus.github.io/drawings-numbers-react",
   "scripts": {
     "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
